@@ -1,0 +1,15 @@
+generations:
+  - name: "First Generation (Geo Prizm)"
+    start_year: 1989
+    end_year: 1992
+    description: "The Geo Prizm (initially sold under GM's Geo brand before being rebadged as a Chevrolet) was a compact sedan derived from the Toyota Sprinter, itself a variant of the Corolla. Built at the NUMMI joint-venture plant between GM and Toyota in California, it was essentially a rebadged Toyota with minimal styling differences. Available as a four-door sedan or five-door hatchback, it was powered by Toyota-designed 1.6L four-cylinder engines, with a more powerful 130 HP GSi performance model available. The interior was practical and durable, reflecting Toyota's influence. This generation represented GM's strategy to offer Japanese-engineered vehicles under its domestic brands to compete with rising Japanese imports, providing American buyers with Toyota reliability under a GM brand name."
+
+  - name: "Second Generation (Geo/Chevrolet Prizm)"
+    start_year: 1993
+    end_year: 1997
+    description: "The second-generation Prizm continued to be a rebadged Toyota Corolla/Sprinter, with the hatchback variant discontinued in favor of sedan-only configuration. Styling became more rounded and aerodynamic in line with 1990s design trends. Engine options included 1.6L and 1.8L four-cylinders from Toyota, with the larger engine producing up to 115 HP. Transmission choices included a five-speed manual or three/four-speed automatic depending on the model year. The interior maintained Toyota's quality and ergonomics with subtle changes to badging. The Geo brand was phased out during this generation, and from 1997 the model was sold as the Chevrolet Prizm. This generation continued to benefit from Toyota's engineering while wearing GM badges."
+
+  - name: "Third Generation (Chevrolet Prizm)"
+    start_year: 1998
+    end_year: 2002
+    description: "The final generation Prizm, now sold exclusively as a Chevrolet, continued to be mechanically identical to the Toyota Corolla. The design featured more distinct styling from its predecessor with a more conservative appearance. Powered by Toyota's 1.8L four-cylinder engine producing 120 HP, it offered impressive reliability and fuel efficiency. Available in base and LSi trim levels, the LSi added features such as power windows, locks, and optional side airbags in later models. The interior maintained Toyota's quality with improved materials and design. With the discontinuation after the 2002 model year, the Prizm represented the end of the NUMMI-produced Toyota-based compact in Chevrolet's lineup, to be replaced by the Daewoo-derived Chevrolet Cobalt. Throughout its production, the Prizm developed a reputation for reliability that was uncommon for American compact cars of the era, thanks to its Toyota engineering."
